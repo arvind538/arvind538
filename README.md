@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind538&label=Profile%20views&color=0e75b6&style=flat" alt="arvind538" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, Node js, Express js, Mongodb**
+- 🌱 I’m currently learning **React.Js, JavaScript.Js, Node js, Express js, Mongodb**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arvind538?tab=repositories](https://github.com/arvind538?tab=repositories)
 
-- 💬 Ask me about **react js, Bootstrup, tailwind css**
+- 💬 Ask me about **react js, Bootstrup, tailwind css, Prebuiltui**
 
 - 📫 How to reach me **arvindkrbscc2006@gmail.com**
 
