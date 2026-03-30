@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind538&label=Profile%20views&color=0e75b6&style=flat" alt="arvind538" /> </p>
 
-- 🌱 I’m currently learning **React.Js, JavaScript.Js, Node js, Express js, Mongodb**
+- 🌱 I’m currently learning **React.Js, JavaScript.Js, Node js, Express js, Mongodb and MySql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arvind538?tab=repositories](https://github.com/arvind538?tab=repositories)
 
