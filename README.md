@@ -1,5 +1,5 @@
 
-<img src="https://github.com/arvind538/arvind538/blob/main/images%20git.jfif" 
+<img src="https://github.com/arvind538/arvind538/blob/main/pic.jpeg" 
      alt="logo" 
      width="1000" 
      height="500" />
