@@ -15,6 +15,7 @@
 
 - 💬 Ask me about **react js, Bootstrup, tailwind css, Prebuiltui**
 
+- 📫 How to reach me **arvindk27747@gmail.com**
 - 📫 How to reach me **arvindkrbscc2006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
