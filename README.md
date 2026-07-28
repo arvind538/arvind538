@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/arvind538?tab=repositories](https://github.com/arvind538?tab=repositories)
 
-- 💬 Ask me about **react js, Bootstrup, tailwind css, Prebuiltui**
+- 💬 Ask me about **react.js, Next.js, Bootstrup, tailwind CSS, Prebuiltui, Flowbite tailwind CSS**
 
 - 📫 How to reach me **arvindk27747@gmail.com**
 - 📫 How to reach me **arvindkrbscc2006@gmail.com**
